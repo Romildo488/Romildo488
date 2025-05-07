@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Romildo santa Fé 😇
 
-[![Blog](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](httpss://Romildo488.com)
-[![linkedin](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](httpss://www.linkedin.com/in/romildo-silva-b79938109)
+[![Blog](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](https://Romildo488.com)
+[![linkedin](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](https://www.linkedin.com/in/romildo-silva-b79938109)
 
 
 ![Romildo488 GitHub stats](https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=dracula&locale=pt-br)
