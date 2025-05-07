@@ -1,16 +1,22 @@
-## Hi there 👋
+### Olá! Eu sou o Romildo santa Fé 😇
 
-<!--
-**Romildo488/Romildo488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](httpss://Romildo488.com)
+[![linkedin](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](httpss://www.linkedin.com/in/romildo-silva-b79938109)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Romildo488 GitHub stats](https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=dracula)
+
+ ## Tecnologias que eu uso no meu dia 
+
+ <div style="display: inline_block"><br/>
+    <img align="center"alt=""html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center"alt=""html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center"alt=""html" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center"alt=""html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+ </div><br>
+
+
+ Apaixonado por tecnologia e aprender algo novo..
+
+ ## romildos488@gmail.com
