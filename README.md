@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/website?label=Romildo488.com&style=for-the-badge&url=https://Romildo488.com/)](httpss://www.linkedin.com/in/romildo-silva-b79938109)
 
 
-[![Romildo488 GitHub stats](https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=dracula)
+[![Romildo488 GitHub stats](https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=dracula&locale=pt-br)
 
  ## Tecnologias que eu uso no meu dia 
 
