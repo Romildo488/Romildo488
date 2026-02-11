@@ -34,19 +34,12 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Romildo488&show_icons=true&theme=tokyonight" />
-</p>
+![Romildo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romildo488&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Romildo488&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romildo488&theme=tokyonight)
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🔥 Detalhes de Contribuições
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Romildo488&theme=tokyonight" />
-</p>
-
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Romildo488&theme=tokyonight)
