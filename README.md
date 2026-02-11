@@ -12,7 +12,6 @@
 
 
 
-### Romildo Silva | Desenvolvedor Back-End .NET
 
 
 <p align="left">
