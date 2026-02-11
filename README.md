@@ -33,15 +33,14 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romildo488&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Romildo488&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romildo488&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak de Contribuições
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Romildo488&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Romildo488&theme=tokyonight&hide_border=true"/>
 </p>
-
