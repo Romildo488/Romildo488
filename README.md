@@ -21,10 +21,10 @@
 
 ## 🏅 Certificações Hackers do Bem
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/12a59dfc-3437-4830-9e29-bc9039341a85" width="200"/>
-  
-  <img src="https://github.com/user-attachments/assets/c2bad3d1-d0a5-453a-8c02-644cb8da9a19" width="200"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/12a59dfc-3437-4830-9e29-bc9039341a85" width="95"/>
+
+  <img src="https://github.com/user-attachments/assets/c2bad3d1-d0a5-453a-8c02-644cb8da9a19" width="95"/>
 </p>
 
 ---
