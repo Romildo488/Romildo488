@@ -4,6 +4,10 @@
 
 <br>
 
+
+<img width="512" height="512" alt="Básico" src="https://github.com/user-attachments/assets/c2bad3d1-d0a5-453a-8c02-644cb8da9a19" />
+
+
 ### Romildo Silva | Desenvolvedor Back-End .NET
 
 <p align="left">
@@ -22,8 +26,9 @@
 ## 🏅 Certificações Hackers do Bem
 
 <p align="center">
-  <img src="./Básico.png" width="200"/>
-  <img src="./Nivelamento.png" width="200"/>
+  <img src="."https://github.com/user-attachments/assets/12a59dfc-3437-4830-9e29-bc9039341a85" />="200"/>
+  <img src="."https://github.com/user-attachments/assets/c2bad3d1-d0a5-453a-8c02-644cb8da9a19" />
+="200"/>
 </p>
 
 ---
