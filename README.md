@@ -8,6 +8,7 @@
 ### Romildo Silva | Desenvolvedor Back-End .NET
 
 
+<img width="512" height="512" alt="Básico" src="https://github.com/user-attachments/assets/789ff0cc-e2f4-4f94-9b31-ecf62ba59859" />
 
 
 
@@ -38,6 +39,14 @@
 ![Romildo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Romildo488&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Romildo488&theme=tokyonight)
+
+## 🏅 Certificações Hackers do Bem
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/64d1d7e4-aea1-44cf-b18c-72cd874da69c" />
+/>
+  <img src="https://github.com/user-attachments/assets/789ff0cc-e2f4-4f94-9b31-ecf62ba59859" />
+</p>
 
 ---
 
